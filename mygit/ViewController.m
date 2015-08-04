@@ -16,7 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    int a = 1;
+    NSLog(@"%d",a);
+}
+- (IBAction)click:(id)sender {
+    NSLog(@"😄");
 }
 
 - (void)didReceiveMemoryWarning {
