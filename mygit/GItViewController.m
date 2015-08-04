@@ -20,6 +20,9 @@
     int a = 10;
     int b = a;
     NSLog(@"%d",b);
+     NSLog(@"太阳啊  啊啊啊啊 啊但是asf发送  萨法发");
+     NSLog(@"太阳啊  啊啊啊啊 啊但是asf发送  萨法发");
+     NSLog(@"太阳啊  啊啊啊啊 啊但是asf发送  萨法发");
 }
 
 - (void)didReceiveMemoryWarning {
