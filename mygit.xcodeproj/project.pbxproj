@@ -15,6 +15,7 @@
 		74A0652A1B7054C000C9D47A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 74A065281B7054C000C9D47A /* LaunchScreen.xib */; };
 		74A065361B7054C000C9D47A /* mygitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 74A065351B7054C000C9D47A /* mygitTests.m */; };
 		74A065411B70646E00C9D47A /* GitTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74A065401B70646E00C9D47A /* GitTableViewController.m */; };
+		74A065441B70662400C9D47A /* GItViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74A065431B70662400C9D47A /* GItViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		74A065351B7054C000C9D47A /* mygitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mygitTests.m; sourceTree = "<group>"; };
 		74A0653F1B70646E00C9D47A /* GitTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GitTableViewController.h; sourceTree = "<group>"; };
 		74A065401B70646E00C9D47A /* GitTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GitTableViewController.m; sourceTree = "<group>"; };
+		74A065421B70662400C9D47A /* GItViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GItViewController.h; sourceTree = "<group>"; };
+		74A065431B70662400C9D47A /* GItViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GItViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				74A065211B7054C000C9D47A /* ViewController.m */,
 				74A0653F1B70646E00C9D47A /* GitTableViewController.h */,
 				74A065401B70646E00C9D47A /* GitTableViewController.m */,
+				74A065421B70662400C9D47A /* GItViewController.h */,
+				74A065431B70662400C9D47A /* GItViewController.m */,
 				74A065231B7054C000C9D47A /* Main.storyboard */,
 				74A065261B7054C000C9D47A /* Images.xcassets */,
 				74A065281B7054C000C9D47A /* LaunchScreen.xib */,
@@ -224,6 +229,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74A065441B70662400C9D47A /* GItViewController.m in Sources */,
 				74A065221B7054C000C9D47A /* ViewController.m in Sources */,
 				74A0651F1B7054C000C9D47A /* AppDelegate.m in Sources */,
 				74A065411B70646E00C9D47A /* GitTableViewController.m in Sources */,
