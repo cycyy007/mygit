@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"dasdsdsadsadsad");
+    NSLog(@"太阳啊  啊啊啊啊 啊但是发送  萨法");
     int a = 10;
     int b = a;
     NSLog(@"%d",b);
